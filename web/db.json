@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "sameera"
+    },
+    {
+      "name": "name",
+      "age": 34,
+      "id": 2
+    },
+    {
+      "name": "name",
+      "age": 34,
+      "id": 3
+    },
+    {
+      "name": "name",
+      "age": 34,
+      "id": 4
+    },
+    {
+      "name": "name",
+      "age": 34,
+      "id": 5
+    },
+    {
+      "name": "name",
+      "age": 34,
+      "id": 6
+    },
+    {
+      "name": "name",
+      "age": 34,
+      "id": 7
+    },
+    {
+      "name": "maneesha",
+      "age": 13,
+      "id": 8
+    },
+    {
+      "name": "maneesha",
+      "age": 13,
+      "id": 9
+    }
+  ]
+}
